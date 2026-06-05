@@ -1,0 +1,7 @@
+# MiLaZé+ — https://milazeplus.com
+# Remplacez l'URL du Sitemap par votre domaine final si différent.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://milazeplus.com/sitemap.xml
